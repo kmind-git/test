@@ -33,4 +33,4 @@ git checkout -b feature-api origin/feature-api
 
 # 合并时，你当前所在的分支是"接收方"
 git checkout main           # 切换到接收方分支
-git merge feature/login     # 将 feature/login 的修改合并到 main
+git merge feature/login     # 将 feature/login 的修改合并到 main 2
